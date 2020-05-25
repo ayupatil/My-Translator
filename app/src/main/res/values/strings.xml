@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">My Translator</string>
+    <string-array name="gcodes">
+        <item>en-US</item>
+        <item>hi-IN</item>
+        <item>bn-IN</item>
+        <item>gu-IN</item>
+        <item>kn-IN</item>
+        <item>ml-IN</item>
+        <item>mr-IN</item>
+        <item>ne-NP</item>
+        <item>pa-IN</item>
+        <item>ta-IN</item>
+        <item>ar-EG</item>
+        <item>nl-NL</item>
+        <item>el-GR</item>
+        <item>it-IT</item>
+        <item>ja-JP</item>
+        <item>fr-CA</item>
+        <item>ur-IN</item>
+        <item>es-ES</item>
+    </string-array>
+    <string-array name="codes">
+        <item>en</item>
+        <item>hi</item>
+        <item>bn</item>
+        <item>gu</item>
+        <item>kn</item>
+        <item>ml</item>
+        <item>mr</item>
+        <item>ne</item>
+        <item>pa</item>
+        <item>ta</item>
+        <item>ar</item>
+        <item>nl</item>
+        <item>el</item>
+        <item>it</item>
+        <item>ja</item>
+        <item>fr</item>
+        <item>ur</item>
+        <item>es</item>
+    </string-array>
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Bengali</item>
+        <item>Gujarati</item>
+        <item>Kannada</item>
+        <item>Malayalam</item>
+        <item>Marathi</item>
+        <item>Nepali</item>
+        <item>Punjabi</item>
+        <item>Tamil</item>
+        <item>Arabic</item>
+        <item>Dutch</item>
+        <item>Greek</item>
+        <item>Italian</item>
+        <item>Japanese</item>
+        <item>French</item>
+        <item>Urdu</item>
+        <item>Spanish</item>
+    </string-array>
+</resources>
